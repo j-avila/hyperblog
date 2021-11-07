@@ -37,8 +37,10 @@ header{
 }
 
 footer{
-  padding: 8px 0;
+  color: rgb(32, 32, 32);
+  padding: 6px 0 2px 0;
   text-align: center;
+  font-size: medium;
 }
 
 h1{
